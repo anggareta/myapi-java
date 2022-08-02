@@ -1,0 +1,9 @@
+{
+  "port": 8888,
+  "dbConnection": {
+    "dbHost": "10.82.15.16",
+    "dbBase": "SMS",
+    "dbUser": "sa",
+    "dbPass": "mansek03"
+  }
+}
